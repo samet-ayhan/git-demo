@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Godard leggings enamel pin meditation coloring book keytar celiac tofu williamsburg cronut everyday carry. Artisan deep v semiotics.
-
-This is some more ipsum text.
+1. index.html
